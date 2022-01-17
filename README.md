@@ -14,6 +14,8 @@ chmod +x install.sh
 ./install sh
 
 ```
-**Enjooy**
+
 **@onpacman**
+**Enjooy**
+**my github : https://github.com/on-pacman**
 
