@@ -11,11 +11,11 @@ shell for linux,macOS and the rest of the family.
 git clone https://github.com/on-pacman/termux-fish
 cd termux-fish
 chmod +x install.sh
-./install sh
+./install.sh
 
 ```
 
-**@onpacman**
+
 **Enjooy**
-**my github : https://github.com/on-pacman**
+>**my github : https://github.com/on-pacman**
 
