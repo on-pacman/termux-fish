@@ -28,4 +28,11 @@ omf install sashimi
 cp config.fish ~/.config/fish/
 
 #finish
-exit
+echo """
+
+my github : https://github.com/on-pacman
+my youtube : https://youtube.com/channel/UCk1zkmrl1cvwfOlY6RA8iEg
+
+Enjoyy
+
+""" | lolcat
